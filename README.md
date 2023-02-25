@@ -1,6 +1,7 @@
 [![Actions Status](https://github.com/lukevella/rallly/workflows/ci/badge.svg)](https://github.com/lukevella/rallly/actions)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-orange.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=7QXP2CUBLY88E)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fiamericfletcher%2Frallly.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fiamericfletcher%2Frallly?ref=badge_shield)
 
 ![hero](./docs/images/hero-image.png)
 
@@ -95,6 +96,9 @@ If you would like to contribute to the development of the project please reach o
 ## 👮‍♂️ License
 
 Rallly is open-source under the GNU Affero General Public License Version 3 (AGPLv3) or any later version. See [LICENSE](LICENSE) for more detail.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fiamericfletcher%2Frallly.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fiamericfletcher%2Frallly?ref=badge_large)
 
 ## 🙏 Sponsors
 
